@@ -2,3 +2,4 @@ product:cell phone, cellphone, phone, laptop, camera, cell, battery, notebook, c
 manufacturer:braven, bose, brother, bushnell, apple, asus, microsoft, monster, nintendo, samsung:
 color:red, black, blue, yellow, white, green, brown:
 attribute:bluetooth, wireless, 3gb:
+product name:ipod, ipad:
